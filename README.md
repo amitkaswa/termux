@@ -6,6 +6,8 @@ my-termux
 
 # termux
 
-**hello** this is bold\n
+**hello** this 
+
+is bold\n
 *hello* this is italic
 
