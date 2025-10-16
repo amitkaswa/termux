@@ -11,3 +11,5 @@ my-termux
 is bold\n
 *hello* this is italic
 
+1. hlo 
+2. it's 
